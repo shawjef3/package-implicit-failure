@@ -1,6 +1,6 @@
 package me.jeffshaw
 
-package object a1
+package object dependent_a
   extends HasA {
 
 }

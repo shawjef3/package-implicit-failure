@@ -1,4 +1,4 @@
-package me.jeffshaw.a0
+package me.jeffshaw.a
 
 import org.scalatest.FunSuite
 

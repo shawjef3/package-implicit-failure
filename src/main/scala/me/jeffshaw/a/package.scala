@@ -1,6 +1,6 @@
 package me.jeffshaw
 
-package object a0 {
+package object a {
 
   trait A {}
 
