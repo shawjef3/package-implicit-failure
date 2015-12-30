@@ -1,8 +1,8 @@
-package me.jeffshaw.dependent_a
+package me.jeffshaw.a0
 
 import org.scalatest.FunSuite
 
-class PackageASpec extends FunSuite {
+class a0Spec extends FunSuite {
 
   test("implicit A is found in package object") {
     assertCompiles("implicitly[A]")

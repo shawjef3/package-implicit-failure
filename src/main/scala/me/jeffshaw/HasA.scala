@@ -1,4 +1,4 @@
-package me.jeffshaw.dependent_a
+package me.jeffshaw
 
 trait HasA {
 
